@@ -1,4 +1,4 @@
-# PXT Procedural Image Generation - My 2D Array Rendering Project
+# PXT Procedural Image Generation 
 
 This engine, built on the PXT framework as well as TypeScript, uses:
 
