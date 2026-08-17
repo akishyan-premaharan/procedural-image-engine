@@ -9,6 +9,10 @@ This engine, built on the PXT framework as well as TypeScript, uses:
 
 If you're wondering, [main.ts](https://akishyan-premaharan.github.io/procedural-image-engine/blob/master/main.ts) is the project source code.
 
+Here is a link to Wikipedia on what I coded:
+
+[![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://en.wikipedia.org/wiki/Procedural_generation)
+
 ## How to Use this Project?
 
 You can:
