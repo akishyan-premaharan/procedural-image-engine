@@ -7,6 +7,8 @@ This engine, built on the PXT framework as well as TypeScript, uses:
 - 📊 Random pixel generation via **randint()**/random generation function
 - ⚙️ MakeCode Arcade/Github to create this repository
 
+If you're wondering, [main.ts](https://akishyan-premaharan.github.io/procedural-graphics-engine/blob/master/main.ts) is the project source code.
+
 ## How to Use this Project?
 
 You can:
