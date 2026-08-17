@@ -150,7 +150,7 @@ function spriteDisplay(array: number[][], sprite: Sprite) {
 
 // Basic User Interface
 
-game.splash("Procedural Graphics Engine!")
+game.splash("Procedural Image Engine!")
 
 story.showPlayerChoices("Generate Random Image", "See the program attempt to generate images")
 
