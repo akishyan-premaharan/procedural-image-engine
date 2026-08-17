@@ -7,23 +7,23 @@ This engine, built on the PXT framework as well as TypeScript, uses:
 - 📊 Random pixel generation via **randint()**/random generation function
 - ⚙️ MakeCode Arcade/Github to create this repository
 
-If you're wondering, [main.ts](https://akishyan-premaharan.github.io/procedural-graphics-engine/blob/master/main.ts) is the project source code.
+If you're wondering, [main.ts](https://akishyan-premaharan.github.io/procedural-image-engine/blob/master/main.ts) is the project source code.
 
 ## How to Use this Project?
 
 You can:
 
-- Play my project [**here at Github.io**](https://akishyan-premaharan.github.io/procedural-graphics-engine/)
+- Play my project [**here at Github.io**](https://akishyan-premaharan.github.io/procedural-image-engine/)
 
 - Add it as a MakeCode Arcade Extension
   - Open [**MakeCode Arcade**](https://arcade.makecode.com/)
   - Click on New Project
   - Click on Extensions under the gear menu
-  - Search for **https://github.com/akishyan-premaharan/procedural-graphics-engine** and import
+  - Search for **https://github.com/akishyan-premaharan/procedural-image-engine** and import
 
 - Edit my project at [**MakeCode Arcade**](https://arcade.makecode.com/), where you
    - Click on Import then click on Import URL
-   - Paste **https://github.com/akishyan-premaharan/procedural-graphics-engine** and click import
+   - Paste **https://github.com/akishyan-premaharan/procedural-image-engine** and click import
 
 ## Tech Used 💻
 
