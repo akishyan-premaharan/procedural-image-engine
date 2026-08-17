@@ -1,5 +1,5 @@
 {
-    "name": "Procedural Graphics Engine",
+    "name": "Procedural Image Engine",
     "description": "",
     "dependencies": {
         "device": "*",
