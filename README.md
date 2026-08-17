@@ -1,26 +1,35 @@
- 
+# PXT Procedural Image Generation - My 2D Array Rendering Project
+
+This engine, built on the PXT framework as well as TypeScript, uses:
+
+- 🌐 Two dimensional Matrix/Array manipulation to **iterate and position computer generated visuals**
+- 🎨 **Basic GUI via arcade-storytelling** extension on MakeCode Arcade
+- 📊 Random pixel generation via **randint()**/random generation function
+- ⚙️ MakeCode Arcade/Github to create this repository
+
+## How to Use this Project?
+
+You can:
+
+- Play my project [**here at Github.io**](https://akishyan-premaharan.github.io/procedural-graphics-engine/)
+
+- Add it as a MakeCode Arcade Extension
+  - Open [**MakeCode Arcade**](https://arcade.makecode.com/)
+  - Click on New Project
+  - Click on Extensions under the gear menu
+  - Search for **https://github.com/akishyan-premaharan/procedural-graphics-engine** and import
+
+- Edit my project at [**MakeCode Arcade**](https://arcade.makecode.com/), where you
+   - Click on Import then click on Import URL
+   - Paste **https://github.com/akishyan-premaharan/procedural-graphics-engine** and click import
+
+## Tech Used 💻
+
+|Name|Usage|
+|----|-----|
+|![MakeCode Arcade TypeScript](https://img.shields.io/badge/makecode%20arcade%20typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)|The language of the engine|
+|![MakeCode Arcade](https://img.shields.io/badge/MakeCode%20Arcade-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)|The **IDE**|
+|![PXT](https://img.shields.io/badge/PXT%20Framework-%23470CA6.svg?style=for-the-badge&logo=typescript&logoColor=white)|The IDE **Framework** that along with Github, helped automatically create this repo|
+|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|**Automatically created** this repo with PXT|
 
 
-> Open this page at [https://akishyan-premaharan.github.io/procedural-graphics-engine/](https://akishyan-premaharan.github.io/procedural-graphics-engine/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/akishyan-premaharan/procedural-graphics-engine** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/akishyan-premaharan/procedural-graphics-engine** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
