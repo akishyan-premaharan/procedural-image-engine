@@ -1,14 +1,12 @@
 # Building AI with Makecode Arcade
 
-<details>
-<summary>Table of Contents</summary>
+
 
 - [Introduction](#intro)
 - [How to run this Project?](#how-to-run-this-project)
 - [Explanation](#explanation)
 - [Tech Used 💻](#tech-used-)
 
-</details>
 
 ### Intro
 
@@ -54,9 +52,6 @@ graph LR
 
 ```
 ### Diagram of the AI Model
-
-<details>
-<summary><b>Click to see</b></summary>
   
 ```mermaid
 graph LR
@@ -82,7 +77,6 @@ graph LR
     MSF --> N34[Neuron]
    
 ```
-</details>
 
 ## Tech Used 💻
 
